@@ -12,4 +12,5 @@ myEmitter.on('waterfull', () => {
 });
 
 console.log("the script is running")
+//emiting a messgae
 myEmitter.emit('waterfull');
