@@ -2,7 +2,7 @@
 // const simple= require("./ecmavscommon2.mjs";
 //ecma
 
-import { simple  } from "./ecmavscommon2.mjs";
+import { simple  } from "./ecmavscommon2.mjs"
 
 simple();
 
