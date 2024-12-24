@@ -1,6 +1,6 @@
 //common js module
 // function simple(){
-//     console.log("happy");
+//     console.log("happy")
 // }
 
 // module.exports= simple;
