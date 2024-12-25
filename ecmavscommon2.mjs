@@ -1,7 +1,7 @@
 //common js module
 // function simple(){
 //     console.log("happy");
-// }
+// 
 
 // module.exports= simple;
 
