@@ -1,4 +1,4 @@
-h//common js module
+hh//common js module
 // const simple= require("./ecmavscommon2.mjs";
 //ecma
 
