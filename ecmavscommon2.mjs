@@ -1,4 +1,4 @@
-fh//common js module
+//common js module
 // function simple(){
 //     console.log("happy");
 // }
